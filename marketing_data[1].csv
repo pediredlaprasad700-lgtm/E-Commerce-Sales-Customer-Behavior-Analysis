@@ -1,0 +1,501 @@
+campaign_id,campaign_type,engagement_rate,customer_segment,conversion
+1,Ads,0.69,Adult,0
+2,Email,0.04,Young,1
+3,Social Media,0.19,Senior,1
+4,Email,0.96,Adult,1
+5,Social Media,0.13,Senior,1
+6,Social Media,0.55,Adult,0
+7,Ads,0.54,Senior,1
+8,Social Media,0.19,Senior,0
+9,Email,0.67,Young,1
+10,Ads,0.78,Adult,1
+11,Email,0.88,Young,0
+12,Ads,0.88,Young,0
+13,Social Media,0.27,Adult,0
+14,Email,0.12,Young,0
+15,Ads,0.18,Young,0
+16,Ads,0.52,Senior,1
+17,Email,0.03,Adult,1
+18,Email,0.47,Young,1
+19,Ads,0.23,Young,0
+20,Social Media,0.7,Senior,0
+21,Ads,0.79,Young,1
+22,Email,0.39,Young,0
+23,Email,0.66,Senior,0
+24,Email,0.01,Senior,1
+25,Social Media,0.95,Young,1
+26,Email,0.7,Young,0
+27,Social Media,0.47,Senior,1
+28,Email,0.24,Young,1
+29,Ads,0.18,Senior,1
+30,Email,0.39,Young,1
+31,Social Media,0.19,Young,1
+32,Social Media,0.07,Young,1
+33,Social Media,0.54,Young,1
+34,Email,0.58,Senior,0
+35,Social Media,0.81,Adult,1
+36,Social Media,0.32,Young,1
+37,Social Media,0.67,Young,0
+38,Email,0.11,Young,0
+39,Social Media,0.11,Senior,1
+40,Social Media,0.83,Young,1
+41,Email,0.46,Senior,1
+42,Ads,0.43,Senior,1
+43,Social Media,0.05,Young,0
+44,Social Media,0.89,Senior,1
+45,Social Media,0.77,Adult,0
+46,Social Media,0.68,Adult,1
+47,Email,0.25,Young,1
+48,Social Media,0.97,Senior,0
+49,Social Media,0.17,Adult,0
+50,Ads,0.77,Adult,0
+51,Email,0.54,Adult,1
+52,Email,0.53,Young,1
+53,Email,0.7,Senior,1
+54,Email,0.02,Senior,0
+55,Social Media,0.78,Adult,1
+56,Social Media,0.52,Young,1
+57,Email,0.11,Senior,1
+58,Email,0.2,Senior,0
+59,Email,0.53,Adult,1
+60,Email,0.83,Adult,1
+61,Email,0.14,Young,1
+62,Social Media,0.57,Senior,0
+63,Email,0.51,Senior,1
+64,Email,0.9,Young,0
+65,Email,0.25,Adult,0
+66,Ads,0.96,Senior,1
+67,Email,0.88,Adult,1
+68,Email,0.5,Adult,0
+69,Social Media,0.69,Senior,0
+70,Email,0.59,Young,1
+71,Email,0.81,Adult,0
+72,Social Media,0.44,Senior,0
+73,Email,0.94,Senior,0
+74,Social Media,0.74,Senior,1
+75,Ads,0.67,Adult,0
+76,Ads,0.55,Adult,1
+77,Email,0.83,Adult,0
+78,Email,0.86,Senior,0
+79,Email,0.67,Adult,0
+80,Social Media,0.17,Senior,0
+81,Ads,0.76,Adult,1
+82,Social Media,0.14,Senior,0
+83,Ads,0.27,Young,1
+84,Social Media,0.89,Adult,1
+85,Ads,0.6,Senior,1
+86,Email,0.19,Senior,1
+87,Ads,0.46,Adult,1
+88,Ads,0.63,Senior,0
+89,Email,0.97,Senior,1
+90,Ads,0.77,Young,0
+91,Ads,0.62,Adult,1
+92,Social Media,0.12,Senior,1
+93,Ads,0.15,Young,0
+94,Social Media,0.87,Young,0
+95,Social Media,0.53,Senior,1
+96,Ads,0.49,Adult,0
+97,Social Media,0.01,Young,1
+98,Social Media,0.06,Senior,1
+99,Ads,0.03,Young,1
+100,Social Media,0.92,Adult,1
+101,Ads,0.89,Senior,0
+102,Ads,0.9,Adult,1
+103,Social Media,0.32,Senior,1
+104,Social Media,0.13,Senior,1
+105,Ads,0.56,Young,0
+106,Ads,0.24,Senior,0
+107,Social Media,0.98,Young,1
+108,Social Media,0.51,Senior,0
+109,Email,0.39,Young,0
+110,Ads,0.56,Young,1
+111,Ads,0.96,Young,0
+112,Ads,0.19,Young,0
+113,Ads,0.6,Senior,1
+114,Email,0.1,Young,1
+115,Social Media,0.88,Adult,0
+116,Email,0.05,Young,0
+117,Social Media,0.48,Young,1
+118,Social Media,0.42,Senior,0
+119,Ads,0.82,Young,1
+120,Ads,0.99,Young,0
+121,Ads,0.24,Adult,0
+122,Ads,0.21,Young,1
+123,Email,0.58,Young,1
+124,Email,0.76,Adult,0
+125,Email,0.54,Adult,1
+126,Ads,0.48,Senior,1
+127,Ads,0.46,Adult,0
+128,Email,0.36,Senior,1
+129,Social Media,0.97,Adult,1
+130,Email,0.52,Young,1
+131,Email,0.05,Senior,1
+132,Email,0.71,Adult,0
+133,Email,0.29,Young,1
+134,Ads,0.47,Senior,1
+135,Email,0.41,Adult,0
+136,Email,0.33,Adult,1
+137,Email,0.02,Senior,0
+138,Email,0.96,Young,1
+139,Email,0.85,Senior,1
+140,Email,0.64,Adult,0
+141,Email,0.26,Adult,0
+142,Email,0.63,Adult,1
+143,Social Media,0.98,Adult,1
+144,Social Media,0.56,Adult,0
+145,Social Media,0.76,Adult,0
+146,Social Media,0.36,Senior,0
+147,Email,0.6,Adult,0
+148,Social Media,0.61,Senior,0
+149,Email,0.42,Young,1
+150,Email,0.35,Senior,0
+151,Ads,0.58,Senior,1
+152,Email,0.11,Senior,0
+153,Social Media,0.35,Senior,0
+154,Social Media,0.41,Adult,1
+155,Email,0.33,Adult,0
+156,Email,0.08,Young,0
+157,Ads,0.46,Young,1
+158,Email,0.74,Senior,0
+159,Ads,0.65,Young,1
+160,Ads,0.02,Adult,0
+161,Social Media,0.86,Young,0
+162,Social Media,0.13,Young,1
+163,Ads,0.21,Young,1
+164,Ads,0.32,Adult,0
+165,Email,0.92,Adult,1
+166,Ads,0.72,Adult,1
+167,Email,0.64,Senior,1
+168,Email,0.43,Senior,0
+169,Email,0.17,Adult,0
+170,Social Media,0.43,Young,0
+171,Ads,0.03,Adult,0
+172,Email,0.55,Young,1
+173,Email,0.31,Senior,1
+174,Ads,0.99,Young,1
+175,Ads,0.8,Adult,0
+176,Ads,0.37,Senior,1
+177,Social Media,0.98,Senior,0
+178,Ads,0.4,Adult,1
+179,Email,0.51,Senior,0
+180,Ads,0.52,Young,0
+181,Social Media,0.3,Young,0
+182,Email,0.64,Young,1
+183,Social Media,0.89,Young,1
+184,Social Media,0.3,Adult,1
+185,Ads,0.15,Young,1
+186,Email,0.73,Senior,0
+187,Email,0.69,Adult,0
+188,Social Media,0.39,Young,0
+189,Email,0.83,Adult,1
+190,Ads,0.43,Adult,0
+191,Social Media,0.54,Young,1
+192,Ads,0.92,Senior,1
+193,Email,0.35,Adult,1
+194,Ads,0.84,Senior,0
+195,Email,0.56,Young,0
+196,Ads,0.12,Senior,0
+197,Social Media,0.53,Senior,1
+198,Social Media,0.34,Adult,0
+199,Social Media,0.48,Senior,1
+200,Email,0.99,Senior,0
+201,Email,0.4,Senior,1
+202,Ads,0.29,Adult,0
+203,Ads,1.0,Young,0
+204,Email,0.42,Adult,1
+205,Email,0.21,Senior,1
+206,Email,0.06,Young,0
+207,Social Media,0.68,Senior,1
+208,Ads,0.26,Adult,1
+209,Social Media,0.56,Adult,0
+210,Ads,0.04,Young,1
+211,Ads,0.2,Adult,1
+212,Email,0.97,Young,1
+213,Social Media,0.41,Adult,1
+214,Ads,0.85,Adult,0
+215,Ads,0.61,Adult,0
+216,Social Media,0.83,Senior,0
+217,Email,0.44,Young,1
+218,Email,0.85,Young,1
+219,Ads,0.85,Young,1
+220,Social Media,0.44,Young,1
+221,Social Media,0.49,Senior,0
+222,Ads,0.1,Young,0
+223,Ads,0.67,Young,1
+224,Email,0.98,Adult,1
+225,Social Media,0.43,Adult,0
+226,Social Media,0.91,Senior,0
+227,Social Media,0.17,Young,0
+228,Social Media,0.4,Adult,0
+229,Social Media,0.44,Young,0
+230,Ads,0.56,Senior,1
+231,Social Media,0.84,Adult,1
+232,Ads,0.47,Senior,1
+233,Ads,0.27,Adult,0
+234,Ads,0.2,Young,0
+235,Ads,0.52,Young,0
+236,Social Media,0.09,Adult,0
+237,Ads,0.81,Adult,0
+238,Email,0.21,Adult,1
+239,Ads,0.36,Adult,0
+240,Social Media,0.58,Young,1
+241,Ads,0.81,Young,1
+242,Email,0.11,Senior,1
+243,Ads,0.42,Senior,1
+244,Social Media,0.65,Senior,0
+245,Ads,0.33,Adult,0
+246,Ads,0.27,Senior,1
+247,Social Media,0.29,Adult,1
+248,Social Media,0.38,Young,0
+249,Social Media,0.03,Adult,1
+250,Social Media,0.82,Senior,1
+251,Email,0.03,Adult,0
+252,Ads,0.32,Adult,1
+253,Social Media,0.01,Adult,0
+254,Social Media,0.96,Senior,0
+255,Email,0.09,Young,1
+256,Social Media,0.57,Young,0
+257,Social Media,0.84,Adult,1
+258,Social Media,0.04,Young,1
+259,Social Media,0.77,Senior,1
+260,Social Media,0.46,Adult,0
+261,Email,0.45,Adult,1
+262,Email,0.04,Young,1
+263,Ads,0.73,Senior,0
+264,Social Media,0.05,Young,1
+265,Email,0.48,Adult,0
+266,Ads,0.7,Young,0
+267,Social Media,0.39,Young,0
+268,Social Media,0.22,Young,0
+269,Ads,0.4,Senior,1
+270,Email,0.05,Young,1
+271,Ads,0.26,Senior,1
+272,Ads,0.14,Senior,0
+273,Email,0.19,Young,1
+274,Social Media,0.9,Senior,0
+275,Email,0.95,Adult,0
+276,Email,0.55,Young,1
+277,Email,0.82,Senior,1
+278,Social Media,0.95,Adult,0
+279,Social Media,0.16,Senior,1
+280,Social Media,0.9,Senior,1
+281,Email,0.41,Young,0
+282,Ads,0.72,Adult,0
+283,Email,0.88,Senior,0
+284,Ads,0.71,Adult,0
+285,Ads,0.78,Adult,1
+286,Social Media,0.25,Adult,0
+287,Email,0.28,Senior,1
+288,Email,0.7,Senior,1
+289,Email,0.32,Adult,0
+290,Social Media,0.72,Young,0
+291,Social Media,0.8,Adult,1
+292,Ads,0.28,Young,0
+293,Email,0.7,Adult,0
+294,Email,0.29,Senior,0
+295,Email,0.07,Senior,0
+296,Social Media,0.98,Adult,1
+297,Email,0.5,Adult,0
+298,Social Media,0.68,Young,0
+299,Ads,0.89,Young,1
+300,Email,0.58,Young,0
+301,Social Media,0.22,Young,0
+302,Social Media,0.69,Senior,1
+303,Social Media,0.17,Senior,1
+304,Ads,0.82,Adult,0
+305,Email,0.9,Adult,1
+306,Social Media,0.84,Senior,0
+307,Ads,0.32,Young,0
+308,Email,0.13,Young,0
+309,Social Media,0.03,Senior,1
+310,Ads,0.07,Senior,1
+311,Email,0.47,Senior,1
+312,Email,0.12,Young,0
+313,Ads,0.48,Adult,0
+314,Ads,0.96,Adult,1
+315,Ads,0.37,Senior,0
+316,Ads,0.58,Adult,1
+317,Ads,0.0,Young,0
+318,Social Media,0.78,Adult,0
+319,Social Media,0.3,Senior,0
+320,Social Media,0.18,Senior,0
+321,Email,0.54,Adult,0
+322,Email,0.79,Senior,0
+323,Email,0.02,Adult,1
+324,Social Media,0.28,Adult,1
+325,Email,0.35,Young,1
+326,Social Media,0.51,Adult,1
+327,Email,0.76,Young,0
+328,Social Media,0.45,Adult,0
+329,Ads,0.11,Adult,1
+330,Email,0.84,Young,0
+331,Email,0.81,Young,1
+332,Social Media,0.56,Senior,0
+333,Email,0.17,Senior,1
+334,Social Media,0.58,Young,1
+335,Social Media,0.25,Adult,1
+336,Email,0.91,Young,0
+337,Ads,0.94,Adult,0
+338,Email,0.35,Young,1
+339,Ads,0.01,Senior,0
+340,Social Media,0.3,Adult,0
+341,Ads,0.46,Senior,1
+342,Email,0.99,Adult,0
+343,Email,0.75,Adult,1
+344,Social Media,0.0,Adult,0
+345,Social Media,0.97,Adult,0
+346,Social Media,0.19,Adult,0
+347,Ads,0.5,Adult,1
+348,Ads,0.62,Young,1
+349,Ads,0.4,Adult,1
+350,Ads,0.73,Adult,0
+351,Ads,0.22,Senior,0
+352,Ads,0.8,Senior,0
+353,Email,0.16,Young,0
+354,Ads,0.21,Senior,1
+355,Email,0.69,Senior,0
+356,Ads,0.19,Senior,1
+357,Ads,0.67,Senior,1
+358,Ads,0.27,Senior,1
+359,Ads,0.85,Adult,1
+360,Email,0.54,Adult,0
+361,Ads,0.53,Young,0
+362,Email,0.53,Senior,1
+363,Ads,0.33,Young,0
+364,Email,0.53,Senior,0
+365,Ads,0.35,Adult,0
+366,Email,0.71,Young,1
+367,Email,0.71,Senior,1
+368,Email,0.02,Young,1
+369,Email,0.95,Adult,0
+370,Social Media,0.77,Adult,0
+371,Email,0.83,Senior,0
+372,Social Media,0.98,Adult,0
+373,Ads,0.13,Adult,0
+374,Email,0.49,Adult,0
+375,Ads,0.53,Senior,1
+376,Email,0.05,Young,0
+377,Email,0.65,Adult,1
+378,Social Media,0.74,Adult,0
+379,Social Media,0.63,Senior,1
+380,Social Media,0.93,Young,1
+381,Social Media,0.34,Adult,0
+382,Email,0.83,Adult,1
+383,Social Media,0.89,Senior,1
+384,Social Media,0.8,Senior,1
+385,Email,0.71,Young,0
+386,Ads,0.81,Senior,0
+387,Ads,0.23,Adult,0
+388,Email,0.9,Adult,0
+389,Social Media,0.61,Young,0
+390,Email,0.32,Adult,1
+391,Ads,0.7,Senior,0
+392,Email,0.55,Young,0
+393,Email,0.79,Adult,1
+394,Social Media,0.49,Senior,0
+395,Email,0.33,Young,0
+396,Email,0.68,Adult,1
+397,Social Media,0.4,Young,0
+398,Email,1.0,Young,1
+399,Email,0.35,Senior,0
+400,Ads,0.35,Young,1
+401,Ads,0.74,Senior,1
+402,Social Media,0.88,Senior,1
+403,Email,0.26,Young,0
+404,Email,0.89,Adult,1
+405,Social Media,0.99,Young,0
+406,Social Media,0.85,Senior,0
+407,Ads,0.18,Senior,1
+408,Email,0.22,Young,0
+409,Social Media,0.03,Senior,0
+410,Email,0.84,Adult,1
+411,Ads,0.85,Senior,1
+412,Email,0.91,Young,0
+413,Ads,0.13,Adult,0
+414,Email,0.21,Young,1
+415,Email,0.49,Young,1
+416,Social Media,0.56,Adult,0
+417,Social Media,0.51,Adult,0
+418,Ads,0.13,Young,0
+419,Ads,0.83,Senior,1
+420,Ads,0.97,Young,0
+421,Email,0.15,Young,1
+422,Email,0.83,Adult,1
+423,Ads,0.82,Adult,1
+424,Ads,0.25,Senior,0
+425,Social Media,0.56,Senior,0
+426,Ads,0.9,Senior,1
+427,Ads,0.89,Adult,1
+428,Email,0.3,Adult,0
+429,Social Media,0.14,Senior,1
+430,Social Media,0.21,Young,1
+431,Email,0.3,Senior,1
+432,Ads,0.91,Adult,1
+433,Email,0.42,Young,0
+434,Ads,0.49,Adult,1
+435,Ads,0.27,Adult,1
+436,Social Media,0.39,Adult,1
+437,Social Media,0.99,Adult,1
+438,Social Media,0.87,Young,1
+439,Ads,0.41,Adult,1
+440,Email,0.5,Adult,0
+441,Social Media,0.16,Senior,0
+442,Ads,0.06,Adult,0
+443,Ads,0.05,Adult,0
+444,Email,0.01,Senior,1
+445,Social Media,0.2,Young,1
+446,Social Media,0.59,Adult,0
+447,Email,0.96,Senior,0
+448,Social Media,0.81,Young,0
+449,Social Media,0.39,Young,0
+450,Email,0.59,Young,0
+451,Social Media,0.8,Adult,1
+452,Social Media,0.29,Young,1
+453,Ads,0.65,Young,0
+454,Ads,0.93,Young,0
+455,Social Media,0.9,Young,1
+456,Ads,0.85,Young,1
+457,Email,0.67,Young,0
+458,Ads,0.27,Adult,1
+459,Social Media,0.78,Senior,0
+460,Ads,0.82,Senior,0
+461,Ads,0.94,Young,1
+462,Ads,0.99,Young,1
+463,Social Media,0.99,Senior,1
+464,Social Media,0.73,Senior,1
+465,Email,0.28,Senior,0
+466,Ads,0.29,Young,0
+467,Email,0.98,Adult,1
+468,Email,0.65,Adult,0
+469,Ads,0.35,Young,0
+470,Ads,0.16,Senior,1
+471,Social Media,0.26,Adult,0
+472,Social Media,0.75,Senior,1
+473,Email,0.73,Young,0
+474,Email,0.16,Senior,1
+475,Social Media,0.37,Adult,0
+476,Social Media,0.65,Adult,0
+477,Email,0.76,Young,0
+478,Email,0.19,Young,1
+479,Email,0.76,Adult,0
+480,Ads,0.37,Adult,0
+481,Ads,0.5,Adult,1
+482,Social Media,0.3,Young,0
+483,Email,0.06,Senior,1
+484,Ads,0.1,Adult,1
+485,Ads,0.48,Adult,0
+486,Social Media,0.59,Young,1
+487,Social Media,0.74,Young,0
+488,Social Media,0.67,Senior,1
+489,Ads,0.83,Senior,1
+490,Ads,0.39,Adult,1
+491,Email,0.31,Senior,1
+492,Social Media,0.61,Adult,0
+493,Social Media,0.77,Adult,0
+494,Ads,0.39,Adult,1
+495,Email,0.76,Senior,1
+496,Email,0.55,Senior,0
+497,Social Media,0.19,Adult,0
+498,Social Media,0.25,Adult,1
+499,Email,0.54,Adult,1
+500,Ads,0.85,Young,1
